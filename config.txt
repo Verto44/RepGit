@@ -1,2 +1,2 @@
-config
-ssddcscsdc
+Arquivo de configurações do git
+testando comandos...
